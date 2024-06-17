@@ -1,3 +1,7 @@
+Name: Verzan.V
+Reg no:230701378
+EX-06 : Application of stack(Evaluating Arithmetic Expression)
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <ctype.h> 
