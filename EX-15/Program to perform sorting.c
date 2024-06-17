@@ -1,3 +1,7 @@
+Name: Verzan.V
+Reg no:230701378 
+EX-15 : Program to perform sorting
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
