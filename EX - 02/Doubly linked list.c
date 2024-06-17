@@ -1,7 +1,11 @@
+Name: Verzan.v
+Reg no:230701378
+EX-02: Doubly linked list
+
 #include <stdio.h> 
 #include <stdlib.h> 
   
-// Define a node structure for doubly linked list 
+
 struct Node { 
     int data; 
     struct Node* prev; 
