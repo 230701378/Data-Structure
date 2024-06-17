@@ -1,3 +1,7 @@
+Name: Verzan.V
+Reg no:230701378
+EX-10 : Implementation of AVL tree
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
