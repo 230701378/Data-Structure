@@ -1,3 +1,7 @@
+Name: Verzan.V
+Reg no:230701378
+EX-04 : Implementation of stack using Array and linked list implementation
+
 #include <stdio.h> 
 #include <stdlib.h> 
 
