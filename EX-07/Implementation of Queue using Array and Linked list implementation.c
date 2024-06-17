@@ -1,3 +1,7 @@
+Name: Verzan.V
+Reg no:230701378
+EX-07 : Implementation of Queue using Array and Linked list implementation
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
