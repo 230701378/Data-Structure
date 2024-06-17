@@ -1,5 +1,5 @@
 Name: Verzan.V
-Reg no:230701378
+Reg no:230701378 
 EX-12 : Performing Topological Sorting
 
 #include <stdio.h> 
