@@ -1,3 +1,7 @@
+Name: Verzan.V
+Reg no:230701378 
+EX-14 : Implementation of Dijkstra's  Algorithm
+
 #include <stdio.h> 
 #include <stdbool.h> 
  
