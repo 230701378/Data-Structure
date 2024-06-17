@@ -1,4 +1,7 @@
- 
+Name: Verzan.V
+Reg no:230701378 
+EX-13 : Implementation of Prims algorithm
+
 #include <stdio.h> 
 #include <stdbool.h> 
  
