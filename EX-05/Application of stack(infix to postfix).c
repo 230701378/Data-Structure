@@ -1,3 +1,7 @@
+Name: Verzan.V
+Reg no:230701378
+EX-05 : Application of stack(infix to postfix)
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <string.h> 
