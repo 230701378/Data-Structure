@@ -1,7 +1,11 @@
+Name: Verzan.V
+Reg no:230701378
+EX-03: singly linked list(polynomial manipulation)
+
 #include <stdio.h> 
 #include <stdlib.h> 
   
-// Define structure for a term in polynomial 
+
 struct Term { 
     int coefficient; 
     int exponent; 
