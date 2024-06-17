@@ -1,3 +1,7 @@
+Name: Verzan.V
+Reg no:230701378
+EX-09 : Implementation of Binary search tree
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
