@@ -3,7 +3,7 @@ Reg no:230701378
 EX-16 : Implementation of Collision Resolution Techniques
 
 #include <stdio.h> 
-#include <stdlib.h> 
+#include <stdlib.h>  
 #include <stdbool.h> 
  
 #define TABLE_SIZE 10 
