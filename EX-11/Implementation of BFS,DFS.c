@@ -1,3 +1,7 @@
+Name: Verzan.V
+Reg no:230701378
+EX-11 : Implementation of BFS,DFS
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
