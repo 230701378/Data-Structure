@@ -1,3 +1,7 @@
+Name: Verzan.v
+Reg no:230701378
+EX-01: Singly linked list
+
 #include <stdio.h> 
 #include <stdlib.h> 
   
